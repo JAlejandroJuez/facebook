@@ -1,0 +1,23 @@
+.logofacebook {
+    display: flex;
+    width: 321px;
+    height: 106px;
+}
+.fb {
+    text-align: left;
+    display: flex;
+    font-size: 12px;
+    font-family: SFProDisplay;    
+}
+.box-one {
+    text-align: right;
+}
+.box-two {
+    text-align: right;
+}
+.box-four {
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    
+}
